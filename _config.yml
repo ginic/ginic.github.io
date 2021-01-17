@@ -1,7 +1,7 @@
 # Site settings
 title: Virginia Partridge
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  Personal website for Virginia Partridge
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ginic.github.io" # the base hostname & protocol for your site
@@ -11,7 +11,6 @@ author:
   github: ginic
   linkedin: virginia-partridge-6bb36754
   email: vcpartridge@hotmail.com
-  instagram: ginny_and_winnie
 
 
 # Syntax highlighting
