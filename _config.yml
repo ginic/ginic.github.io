@@ -3,8 +3,8 @@ title: Virginia Partridge
 description: >
   Personal website for Virginia Partridge
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ginic.github.io" # the base hostname & protocol for your site
+# baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ginic.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Virginia Partridge
