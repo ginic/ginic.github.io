@@ -12,7 +12,7 @@ I am currently a Master's student in Computer Science at <a href="https://www.ci
 
 I am passionate about language access, translation and interpretation. I believe that the drive to understand each other is fundamental to the human condition. 
 
-I speak German and Russian. My travel blog from <a href="https://www.brandeis.edu/now/2011/may/partridge.html">my time in Russia</a> is called <a href="http://doorlanguages.blogspot.com">Door Languages</a>. 
+I speak German and Russian. Ich spreche Deutsch. Я горою по-русски. My travel blog from <a href="https://www.brandeis.edu/now/2011/may/partridge.html">my time in Russia</a> is called <a href="http://doorlanguages.blogspot.com">Door Languages</a>. 
 
 
 ### About this site

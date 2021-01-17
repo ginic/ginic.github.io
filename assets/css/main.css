@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
   body {
-    font-family: 'Quicksand', sans-serif;  
+    font-family: 'Nunito', sans-serif;  
     font-size: 100%;
     color: #012;
     background-color: #FFF; }
@@ -13,7 +13,8 @@
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px;
+   }
 
   img {
     display: block;
