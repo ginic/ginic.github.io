@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Meet Virginia.
+subtitle: Linguist, coder, dog lover
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/Coffee.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<!-- <p>I'm also a crocheter and coffee fanatic.</p> -->
+	<p>I am currently a Master's student in Computer Science at <strong> <a href="https://www.cics.umass.edu"> UMASS Amherst.</a> </strong> <br> My interests are natural language processing and information retreival. </p>
 </div>
